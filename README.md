@@ -29,5 +29,8 @@ Open ports may indicate the availability of services on the target system and it
 
 
 Ports
+
+
 you can increase, decrease and change the ports you want to scan.
+
 well_known_ports = [21, 22, 23, 25, 53, 80, 110, 115, 119, 123, 143, 161, 194, 443, 445, 993, 995, 1080, 3306, 3389]
