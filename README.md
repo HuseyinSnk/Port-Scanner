@@ -26,3 +26,8 @@ This tool utilizes Python's tkinter module for the graphical user interface (GUI
 During the scan, TCP connections are used to resolve the IP address of a specific URL and then scan specific ports.
 
 Open ports may indicate the availability of services on the target system and its accessibility from the internet.
+
+
+Ports
+you can increase, decrease and change the ports you want to scan.
+well_known_ports = [21, 22, 23, 25, 53, 80, 110, 115, 119, 123, 143, 161, 194, 443, 445, 993, 995, 1080, 3306, 3389]
