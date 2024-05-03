@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-05-03 at 4 23 35 PM](https://github.com/HuseyinSnk/Port-Scanner/assets/165512125/ff5ef5a6-8547-4d9c-af48-4177751315c9)
 # Port-Scanner
 
 This is a simple Python tool for scanning open ports of a URL specified by the user. Using the tool, you can obtain the IP address of a specific URL and then scan a specified list of ports to find open ports.
